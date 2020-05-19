@@ -4,8 +4,8 @@ This repository contains my code and annotations from the udemy course ["NodeJS 
 
 ## Table of Contents
 
-| Directory     | Content       |
-| ------------- |:-------------:|
-| [Basics](./basics)        | The basis of NodeJS, using only http and fs library. |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| Directory                                 | Content                                               |
+| ----------------------------------------- |:-----------------------------------------------------:|
+| [Basics](./basics)                        | The basis of NodeJS, using only http and fs library.  |
+| [NPM and Debugging](./npm-and-debugging)  | Using NPM and some dubugging tips.                    |
+| zebra stripes                             | are neat                                              |
