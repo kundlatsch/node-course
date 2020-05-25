@@ -9,3 +9,4 @@ This repository contains my code and annotations from the udemy course ["NodeJS 
 | [Basics](./basics)                        | The basis of NodeJS, using only http and fs library.  |
 | [NPM and Debugging](./npm-and-debugging)  | Using NPM and some dubugging tips.                    |
 | [Express](./express)                      | Introduction to Express framework.                    |
+| [Template Engines](./template-engines)                      | Introduction to Template Engines using Pug, Handlebars and EJS                    |
