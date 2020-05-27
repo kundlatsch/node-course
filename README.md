@@ -5,7 +5,7 @@ This repository contains my code and annotations from the udemy course ["NodeJS 
 ## Table of Contents
 
 | Directory                               | Content                                                       |
-| --------------------------------------- |:-------------------------------------------------------------:|
+|:---------------------------------------:|:-------------------------------------------------------------:|
 | [Basics](./basics)                      |The basis of NodeJS, using only http and fs library.           |
 | [NPM and Debugging](./npm-and-debugging)|Using NPM and some dubugging tips.                             |
 | [Express](./express)                    |Introduction to Express framework.                             |
