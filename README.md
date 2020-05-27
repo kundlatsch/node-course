@@ -12,3 +12,4 @@ This repository contains my code and annotations from the udemy course ["NodeJS 
 | [Template Engines](./template-engines)  |Introduction to Template Engines using Pug, Handlebars and EJS.|
 | [MVC](./mvc)                            |Introduction to the model-view-controller pattern.             |
 | [Dynamic Routes](./dynamic-routes)      |How to pass information through routes.                        |
+| [SQL](./sql)                            |Using SQL databases to save the application data.              |
