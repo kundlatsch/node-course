@@ -30,7 +30,7 @@ To run the example, install dependencies with `npm install`, and run the project
 
 ![Comparation](./images/comparation1.png)
 
-![Comparation](./images/comparation1.png)
+![Comparation](./images/comparation2.png)
 
 ---
 
