@@ -11,3 +11,4 @@ This repository contains my code and annotations from the udemy course ["NodeJS 
 | [Express](./express)                    |Introduction to Express framework.                             |
 | [Template Engines](./template-engines)  |Introduction to Template Engines using Pug, Handlebars and EJS.|
 | [MVC](./mvc)                            |Introduction to the model-view-controller pattern.             |
+| [Dynamic Routes](./dynamic-routes)      |How to pass information through routes.                        |
