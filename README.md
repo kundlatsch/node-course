@@ -15,3 +15,4 @@ This repository contains my code and annotations from the udemy course ["NodeJS 
 | [SQL](./sql)                            |Using SQL databases to save the application data.              |
 | [Sequelize](./sequelize)                |Concept of ORM and introduction to Sequelize.                  |
 | [MongoDB](./mongodb)                    |Changing SQL database to NoSQL (MongoDB)                       |
+| [Mongoose](./mongoose)                  |Using Mongoose (MongoDB object modeling tool) package.         |
