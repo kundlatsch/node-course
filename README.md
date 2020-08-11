@@ -14,5 +14,6 @@ This repository contains my code and annotations from the udemy course ["NodeJS 
 | [Dynamic Routes](./dynamic-routes)      |How to pass information through routes.                        |
 | [SQL](./sql)                            |Using SQL databases to save the application data.              |
 | [Sequelize](./sequelize)                |Concept of ORM and introduction to Sequelize.                  |
-| [MongoDB](./mongodb)                    |Changing SQL database to NoSQL (MongoDB)                       |
+| [MongoDB](./mongodb)                    |Changing SQL database to NoSQL (MongoDB).                      |
 | [Mongoose](./mongoose)                  |Using Mongoose (MongoDB object modeling tool) package.         |
+| [Cookies](./cookies)                    |Using cookies and sections to keep login information.          |
