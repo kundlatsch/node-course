@@ -17,3 +17,5 @@ This repository contains my code and annotations from the udemy course ["NodeJS 
 | [MongoDB](./mongodb)                    |Changing SQL database to NoSQL (MongoDB).                      |
 | [Mongoose](./mongoose)                  |Using Mongoose (MongoDB object modeling tool) package.         |
 | [Cookies](./cookies)                    |Using cookies and sections to keep login information.          |
+| [Authentication](./authentication)      |Introduction to user authentication                            |
+
