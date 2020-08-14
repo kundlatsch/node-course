@@ -18,4 +18,5 @@ This repository contains my code and annotations from the udemy course ["NodeJS 
 | [Mongoose](./mongoose)                  |Using Mongoose (MongoDB object modeling tool) package.         |
 | [Cookies](./cookies)                    |Using cookies and sections to keep login information.          |
 | [Authentication](./authentication)      |Introduction to user authentication                            |
+| [Sending emails](./emails)              |How to send emails using Node                                  |
 
