@@ -19,4 +19,5 @@ This repository contains my code and annotations from the udemy course ["NodeJS 
 | [Cookies](./cookies)                    |Using cookies and sections to keep login information.          |
 | [Authentication](./authentication)      |Introduction to user authentication                            |
 | [Sending emails](./emails)              |How to send emails using Node                                  |
+| [Authentication 2](./authentication2)   |Reseting user's password and implementing authorization        |
 
