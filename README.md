@@ -17,7 +17,8 @@ This repository contains my code and annotations from the udemy course ["NodeJS 
 | [MongoDB](./mongodb)                    |Changing SQL database to NoSQL (MongoDB).                      |
 | [Mongoose](./mongoose)                  |Using Mongoose (MongoDB object modeling tool) package.         |
 | [Cookies](./cookies)                    |Using cookies and sections to keep login information.          |
-| [Authentication](./authentication)      |Introduction to user authentication                            |
-| [Sending emails](./emails)              |How to send emails using Node                                  |
-| [Authentication 2](./authentication2)   |Reseting user's password and implementing authorization        |
+| [Authentication](./authentication)      |Introduction to user authentication.                           |
+| [Sending emails](./emails)              |How to send emails using Node.                                 |
+| [Authentication 2](./authentication2)   |Reseting user's password and implementing authorization.       |
+| [Validation](./validation)              |Input data validation and sanitization.                        |
 
