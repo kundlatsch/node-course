@@ -21,5 +21,7 @@ This repository contains my code and annotations from the udemy course ["NodeJS 
 | [Sending emails](./emails)              |How to send emails using Node.                                 |
 | [Authentication 2](./authentication2)   |Reseting user's password and implementing authorization.       |
 | [Validation](./validation)              |Input data validation and sanitization.                        |
-| [Error Handling](./errors)              |How to properly handle errors in Express.js                    |
+| [Error Handling](./errors)              |How to properly handle errors in Express.js.                   |
+| [Files Download and Upload](./files)    |Downloading and uploading files in the server.                 |
+
 
